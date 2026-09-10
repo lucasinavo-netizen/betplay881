@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/go/vn",
+      "destination": "/api/go-vn"
+    }
+  ]
+}
